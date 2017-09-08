@@ -1,2 +1,3 @@
 # hello-world
-CIS4100
+
+CIS 4100 - Friday Class
